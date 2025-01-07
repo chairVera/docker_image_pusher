@@ -8,7 +8,6 @@
 #soar97/triton-k2:22.12.1
 alpine:latest
 alpine:3.18
-scratch
 gcr.io/distroless/base
 gcr.io/distroless/java
 gcr.io/distroless/python3
