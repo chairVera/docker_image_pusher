@@ -6,17 +6,16 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 ubuntu:22.04
 #soar97/triton-k2:22.12.1
-alpine:latest
-alpine:3.18
-gcr.io/distroless/base
-gcr.io/distroless/java
-gcr.io/distroless/python3
-busybox:latest
-busybox:glibc
-python:3.9-slim-buster
-python:3.10-alpine
-gcr.io/distroless/python3
-tinycorelinux/tcz:base
+#alpine:latest
+#alpine:3.18
+#gcr.io/distroless/base
+#gcr.io/distroless/java
+#gcr.io/distroless/python3
+#busybox:latest
+#busybox:glibc
+#python:3.9-slim-buster
+#python:3.10-alpine
+#gcr.io/distroless/python3
 node:16-alpine
 gcr.io/distroless/nodejs
 openjdk:11-jre-slim
