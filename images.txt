@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 ubuntu:22.04
 #soar97/triton-k2:22.12.1
---platform=linux/arm64 python:3.10.12-slim-bullseye
+#--platform=linux/arm64 python:3.10.12-slim-bullseye
+vllm-openai:latest
