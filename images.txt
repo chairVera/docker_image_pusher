@@ -11,4 +11,5 @@
 #qwenllm/qwenvl:2.5-cu121
 #rapidsai/miniforge-cuda:cuda11.8.0-base-ubuntu20.04-py3.10
 #nvidia/cuda:12.1.0-devel-ubuntu22.04
-nvidia/cuda:12.2.2-cudnn8-runtime-ubuntu22.04
+#nvidia/cuda:12.2.2-cudnn8-runtime-ubuntu22.04
+python:3.9-slim
